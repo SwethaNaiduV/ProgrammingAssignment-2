@@ -1,5 +1,3 @@
-### R PROGRAMMING - ASSIGNMENT WEEK 3
-# Author: Vangapandu Swetha Naidu
 ## Put comments here that give an overall description of what your
 ## functions do
 
